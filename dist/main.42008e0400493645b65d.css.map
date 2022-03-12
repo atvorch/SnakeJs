@@ -1,0 +1,1 @@
+{"version":3,"file":"main.42008e0400493645b65d.css","mappings":";;;AAAA;EACE,mBAAmB","sources":["webpack://snake-js/./src/styles.scss"],"sourcesContent":[".canvas {\n  background: #3e3e3e;\n}\n"],"names":[],"sourceRoot":""}

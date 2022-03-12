@@ -1,0 +1,37 @@
+.canvas {
+  background: #3e3e3e;
+  margin: 0 auto;
+  display: block;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background: black;
+}
+
+.score {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.gameover {
+  display: none;
+  position: absolute;
+  top: 50%;
+  color: white;
+  background: black;
+  padding: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+  left: 50%;
+  font-family: SYSTEM-UI;
+  border: 5px solid #ef92ff;
+  transform: translate(-50%, -50%);
+}
